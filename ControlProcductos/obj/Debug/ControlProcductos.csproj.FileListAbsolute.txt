@@ -1,0 +1,12 @@
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\bin\Debug\ControlProcductos.exe.config
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\bin\Debug\ControlProcductos.exe
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\bin\Debug\ControlProcductos.pdb
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.csprojAssemblyReference.cache
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.frmCategorias.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.frmNuevoProducto.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.frmProductos.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.Properties.Resources.resources
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.csproj.GenerateResource.cache
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.exe
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.pdb
+C:\xampp\htdocs\servicios\HerramientasProgramacionI\Control Producto\ControlProcductos\obj\Debug\ControlProcductos.frmActualizarProducto.resources
